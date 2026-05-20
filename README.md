@@ -28,7 +28,7 @@ Seluruh file dataset dan kamus pendukung telah dijadikan satu di dalam folder `d
 ```text
 .
 ├── UAS_Data_Mining_Kelompok_10.ipynb     # Notebook utama
-├── dataset/                              # Folder berisi semua data dan kamus pendukung
+├── /Kamus kamus dan file sentimen rasis (PROJEK DATMIN)/                              # Folder berisi semua data dan kamus pendukung
 │   ├── RASIS.csv                         # Dataset utama (hasil integrasi)
 │   ├── Rasis 1.csv                       # Dataset sumber 1
 │   ├── Rasis 2.csv                       # Dataset sumber 2
