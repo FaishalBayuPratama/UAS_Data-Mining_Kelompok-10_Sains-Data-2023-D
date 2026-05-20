@@ -1,0 +1,13 @@
+numpy
+pandas
+matplotlib
+seaborn
+wordcloud
+nltk
+scikit-learn
+imbalanced-learn
+missingno
+langdetect
+googletrans==4.0.0-rc1
+emoji
+PySastrawi
